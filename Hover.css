@@ -1,0 +1,9 @@
+.hover{
+    padding: 30px;
+    color: yellow;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hover:hover{
+    color: brown;
+}
